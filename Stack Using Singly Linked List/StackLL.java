@@ -45,7 +45,7 @@ public class StackLL {
         // TODO code application logic here
         StackLL obj = new StackLL();
         obj.Push(1);
-        obj.traverseLL(head);
+        obj.traverseLL(obj.head);
     }
 }
 

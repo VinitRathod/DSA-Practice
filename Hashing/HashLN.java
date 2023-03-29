@@ -1,3 +1,4 @@
+// Separate Collision Hashing Using LinkedList
 public class HashLN{
     int bucket,val;
     HashLN[] table;
